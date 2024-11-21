@@ -1,0 +1,23 @@
+ {
+    "DBMS": [
+        {"q": "What does SQL stand for?", "o": ["Structured Query List", "Structured Query Language", "Simple Query Language", "None"], "a": "Structured Query Language"},
+        {"q": "What is a primary key?", "o": ["Unique identifier", "Null value", "Duplicate value", "None"], "a": "Unique identifier"},
+        {"q": "Which of these is NOT a SQL command?", "o": ["DELETE", "INSERT", "UPDATE", "LINK"], "a": "LINK"},
+        {"q": "Which normal form removes multivalued dependencies?", "o": ["1NF", "2NF", "3NF", "4NF"], "a": "4NF"},
+        {"q": "What does ACID stand for in DBMS?", "o": ["Atomicity, Consistency, Isolation, Durability", "Accuracy, Completeness, Isolation, Dependability", "Atomicity, Completeness, Isolation, Durability", "None"], "a": "Atomicity, Consistency, Isolation, Durability"},
+    ],
+    "Python": [
+        {"q": "Which keyword is used to define a function in Python?", "o": ["func", "def", "function", "define"], "a": "def"},
+        {"q": "How do you create a list in Python?", "o": ["[]", "{}", "()", "<>"], "a": "[]"},
+        {"q": "Which library is used for data analysis?", "o": ["numpy", "pandas", "math", "os"], "a": "pandas"},
+        {"q": "What is used to install packages in Python?", "o": ["pip", "npm", "brew", "apt"], "a": "pip"},
+        {"q": "Which function converts a string to an integer?", "o": ["str()", "int()", "float()", "convert()"], "a": "int()"},
+    ],
+    "DSA": [
+        {"q": "Which data structure uses FIFO?", "o": ["Queue", "Stack", "Array", "Tree"], "a": "Queue"},
+        {"q": "Which algorithm is used for sorting?", "o": ["Merge Sort", "Binary Search", "DFS", "BFS"], "a": "Merge Sort"},
+        {"q": "Which data structure is a LIFO?", "o": ["Queue", "Stack", "Array", "Graph"], "a": "Stack"},
+        {"q": "What is the time complexity of binary search?", "o": ["O(1)", "O(log n)", "O(n)", "O(n^2)"], "a": "O(log n)"},
+        {"q": "Which data structure is used in BFS?", "o": ["Queue", "Stack", "Heap", "Graph"], "a": "Queue"},
+    ],
+}
